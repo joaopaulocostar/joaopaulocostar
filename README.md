@@ -1,4 +1,4 @@
-## Olá!!<br/> Eu sou o João 😎
+# Olá!!<br/> Eu sou o João 😎
 ### Formado na área de humanas, migrando para o desenvolvimento Full-Stack. <br/> Apaixonado por esportes, e games 🎮⚽ <br/> Buscando sempre aprender e me desenvolver na área de tecnologia.
 
 ## Status do GitHub
