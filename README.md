@@ -27,3 +27,8 @@
     <img style="display: inline_block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/91e1ea8a4c024e9082b531c2972c794f40c9ed4620ced98e8f82db669bf7a9d6/68747470733a2f2f6575636c696465733938312e6769746875622e696f2f6575636c696465733938312f696d672f6261646765732f747265732e706e67" width="163" height="163">
     <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/be45767472c762fb70419a4ce46e4b4ce4edf7032884cdea43954b6f63afe886/68747470733a2f2f6575636c696465733938312e6769746875622e696f2f6575636c696465733938312f696d672f6261646765732f62616467652d70726f6a65746f2d706f727469666f6c696f2e706e67" width="163" height="163">
 </div>
+
+## 
+
+![Snake animation](https://github.com/R34prZ/R34prZ/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=R34prZ&color=blueviolet)
