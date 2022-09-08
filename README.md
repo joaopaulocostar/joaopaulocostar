@@ -3,7 +3,7 @@
 
 ## Status do GitHub
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulocosta98&show_icons=true&theme=dracula)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulocostar&show_icons=true&theme=dracula)
 
 ## Tecnologias que gosto de usar
  <div style="display: inline_block"><br/>
